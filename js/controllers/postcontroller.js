@@ -15,7 +15,7 @@ app.controller('PostController', ['$scope', function($scope) {
     {
       author: {
         name: 'Matthew Healy',
-        avatar: '../../../img/mh.svg'
+        avatar: 'img/mh.svg'
       },
       comment: {
         text: 'I used to have a recurring dream when I was younger.'
